@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @changdexiaolizi
-- 👀 I’m interested in  Elementary mathematics music and computer science 
-- 🌱 I’m currently learning how to do math
-- 💞️ I’m looking to collaborate on math
-- 📫 How to reach me jar3dmcca7n@gmail.com
+-嗨，我是@changdexiaolizi
+-我对生物信息学（生物学和计算机科学）感兴趣
+-如何联系我jarmayor 3dmcca7n@gmail. com
 
 <!---
-changdexiaolizi/changdexiaolizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+changdexiaolizi/changdexiaolizi是一个特殊的存储库，因为它的'README.md（这个文件）出现在您的GitHub配置文件中。
+您可以单击Preview链接查看更改。
 --->
